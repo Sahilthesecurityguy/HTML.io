@@ -1,0 +1,20 @@
+/* Custom styles */
+
+/* Set background color for the tall section */
+.tall-section {
+  background-color: #f8f8f8;
+  height: 1000px;
+  padding: 20px;
+}
+
+/* Style the mobile dropdown menu */
+.navbar-nav.visible-xs {
+  background-color: #ddd;
+  width: 100%;
+}
+
+.navbar-nav.visible-xs > li > a {
+  color: #333;
+  padding: 10px 15px;
+  border-bottom: 1px solid #bbb;
+}
